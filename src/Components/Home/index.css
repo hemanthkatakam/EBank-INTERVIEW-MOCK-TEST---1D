@@ -1,0 +1,36 @@
+.home-container {
+  background-color: #152850;
+  background-size: cover;
+  height: 100vh;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.flex-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0px 30px;
+  padding: 15px;
+}
+.home-heading {
+  color: #ffffff;
+  font-weight: 500;
+  font-family: 'Roboto';
+}
+.digital-card {
+  width: 50%;
+}
+.button {
+  background-color: transparent;
+  border: 1px solid #ffffff;
+  width: 100px;
+  height: 35px;
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: 500;
+  cursor: pointer;
+}
